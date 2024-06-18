@@ -1,0 +1,122 @@
+    1  git -v
+    2  clear
+    3  git config --global user.name "Shulha"
+    4  git config --global --replace-all user.name 'Shulha'
+    5  git config --global user.name"Shulha"
+    6  git config --global user.name "Shulha"
+    7  git config --global user. name "Shulha"
+    8  git config --global user.name
+    9  git config --global user.email "tsylga3@gmail.com"
+   10  git config --global user.email
+   11  clean
+   12  git clien
+   13  For some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set 
+   14  git clran
+   15  ssh-keygen
+   16  ls /c/User/ICH/.ssh/
+   17  ls /c/User/ICH/.ssh/id_ed25519
+   18  ls [200~/c/Users/ICH/.ssh/id_ed25519
+   19  ls -l /c/User/ICH/.ssh/id_ed25519
+   20  pwd
+   21  ls
+   22  cat /c/Users/ICH/.ssh/id_ed25519
+   23  histori
+   24  ls ssh -i  /c/User/ICH/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   25  git config --global user.name "Tatiana555vs"
+   26  git config --global user.email "tsylga3@gmail.com"
+   27  git init
+   28  cd C:\Users\ICH
+   29  cd C:/Users/ICH
+   30  pwd
+   31  git init
+   32  git clone https://github.com/Tatiana555vs/IT_Career-Hub.git
+   33  git clone https://github.com/Tatiana555vs/IT_Career-Hub.git
+   34  pwd
+   35  cd C:/Users/ICH
+   36  git clone https://github.com/Tatiana555vs/IT_Career-Hub.git
+   37  ls 
+   38  cd IT_Career-Hub
+   39  touch fille1
+   40  git add fille1
+   41  git branch -M main
+   42  pwd
+   43  mkdir /C/Users/ICH first_repo
+   44  mkdir /C/Users/ICH/first_repo
+   45  pwd 
+   46  git config --list --global
+   47  git init
+   48  cd /C/Users/ICH/first_repo
+   49  git init
+   50  echo "# test" >> README.md
+   51  git status
+   52  git add README.md
+   53  git commit -m "first commit"
+   54  git branch -M main
+   55  [200~
+   56  eval `ssh-agent -s`
+   57  ssh-add C/Users/ICH/.ssh/id_ed25519
+   58  ssh-add ~/.ssh/id_ed25519 
+   59  ls ~/.ssh
+   60  git remove add origin git@github.com:Tatiana555vs
+   61  git remote add origin git@github.com:Tatiana555vs
+   62  git remote add origin git@github.com:Tatiana555vs/first_repo.git
+   63  push -u  origin main 
+   64  git push -u  origin main 
+   65  pwd
+   66  cd etc
+   67  ls
+   68  cd /
+   69  pwd
+   70  date > newFille.txt
+   71  date > newFille.txt
+   72  pwd
+   73  touch newFille.txt
+   74  mkdir ~/repo2
+   75  cd ~/repo2/
+   76  git init
+   77  git remote add origin https://github.com/Tatiana555vs/repo2.git
+   78  curl -O curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/1000HelloWorld.sh
+   79  git branch -M main
+   80  git add 1000HelloWorld.sh
+   81  git branch -M main
+   82  git add 1000HelloWorld.sh
+   83  [200~curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/1000HelloWorld.sh
+   84  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/1000HelloWorld.sh
+   85  git branch -M main
+   86  git add 1000HelloWorld.sh
+   87  git branch -M main
+   88  git add 1000HelloWorld.sh
+   89  git commit -m "ADD 1000HelloWorld.sh file"
+   90  code .
+   91  git log
+   92  git branch
+   93  pwd
+   94  cd ~
+   95  pwd
+   96  rm -rf .git
+   97  cd ~
+   98  git clone https://github.com/Tatiana555vs/repo12.git
+   99  cd repo12/
+  100  git status
+  101  git log
+  102  git checkout -b feature
+  103  ls
+  104  echo "Project12" > README.md
+  105  ls
+  106  echo "*.exe" > gitignore
+  107  ls -a
+  108  echo "*.exe" > .gitignore
+  109  ls -la
+  110  git add README.md 
+  111  git add .gitignore 
+  112  git status
+  113  git commit -m "add filles"
+  114  gitt push -u origin feature
+  115  git push -u origin feature
+  116  git push -u origin feature
+  117  git commit --amend
+  118  git push --force origin feature
+  119  git checkout main
+  120  git merge feature
+  121  git push -u origin main
+  122  history > history.txt
